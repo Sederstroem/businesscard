@@ -2,14 +2,12 @@
     <string name="app_name">Business Card</string>
     <string name="full_name">Christian Sederström</string>
     <string name="occupation">Student</string>
-    <string name="phone_number">+358 40 6800 646</string>
+    <string name="phone_number">123 456</string>
     <string name="instagram_profile">\@sederstroem</string>
-    <string name="email_address">christian.sederstrom@gmail.com</string>
+    <string name="email_address">someone@gmail.com</string>
     <string name="instagram_uri">https://www.instagram.com/sederstroem</string>
     <string name="about_me_button_text">About me</string>
     <string name="about_me">
-        My hobbies are music, working out and gaming.
-        I have studied a lot of different programming languages as well,
-        some of them are C, C#, Java, SQL, Kotlin, JavaScript and PHP.
+        Interesting stuff
     </string>
 </resources>
